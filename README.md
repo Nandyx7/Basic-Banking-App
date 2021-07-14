@@ -20,6 +20,7 @@ To store the customer details I have used the concept of DATABASE like creating 
 
 And I have inserted 14 users database and have given specific Profile images individually to look more attractive
 Here is the proper layout of the app given here based on the application I finished
-![2021-07-14 (17)](https://user-images.githubusercontent.com/87435079/125674780-2dae526c-1c3b-4b57-ab84-7830948408a2.png)
+![2021-07-14 (17)](https://user-images.githubusercontent.com/87435079/125674780-2dae526c-1c3b-4b57-ab84-7830948408a2.png) https://youtu.be/ISPHNt2qiD8
 [Nandhini Task_2 Layout.pptx](https://github.com/Nandyx7/Basic-Banking-App/files/6818282/Nandhini.Task_2.Layout.pptx)
 
+https://youtu.be/ISPHNt2qiD8
