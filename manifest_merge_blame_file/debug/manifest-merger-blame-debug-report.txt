@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.basicbankingapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\fe05db651979b39875ef014855ff51f0\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.BasicBankingApp" >
+21-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:11:9-53
+22        <activity android:name="com.example.basicbankingapp.UI.AccountLoadingPage" />
+22-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:12:9-59
+22-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:12:19-56
+23        <activity android:name="com.example.basicbankingapp.UI.SendToUserList" />
+23-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:13:9-55
+23-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:13:19-52
+24        <activity android:name="com.example.basicbankingapp.UI.UsersList" />
+24-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:14:9-50
+24-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:14:19-47
+25        <activity android:name="com.example.basicbankingapp.UI.TransactionHistory" />
+25-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:15:9-59
+25-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:15:19-56
+26        <activity android:name="com.example.basicbankingapp.UI.UserData" />
+26-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:16:9-49
+26-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:16:19-46
+27        <activity android:name="com.example.basicbankingapp.UI.HomeScreen" >
+27-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:17:9-23:20
+27-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:17:19-48
+28            <intent-filter>
+28-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:19:17-69
+29-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:21:17-77
+31-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <meta-data
+35-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:25:9-27:57
+36            android:name="preloaded_fonts"
+36-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:26:13-43
+37            android:resource="@array/preloaded_fonts" />
+37-->D:\Simple Banking Application\app\src\main\AndroidManifest.xml:27:13-54
+38    </application>
+39
+40</manifest>
